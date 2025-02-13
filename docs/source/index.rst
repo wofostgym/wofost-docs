@@ -19,8 +19,8 @@ To cite this work, please cite the research paper as follows:
 
 .. code-block:: text
 
-   @article{solow2025wofost,
-    author = {Solow, Will and Saisubramanian, Sandhya},
+   @article{anon2025wofost,
+    author = {Anonymous Authors},
     title = {WOFOST-Gym: A RL Benchmark for Multi-Year Crop Simulations},
     year = {2025},
     conference = {Reinforcement Learning Conference}
