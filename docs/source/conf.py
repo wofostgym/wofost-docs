@@ -7,8 +7,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'WOFOST-Gym'
-copyright = '2024, Will Solow'
-author = 'Will Solow'
+copyright = '2024, WOFOSTGym'
+author = 'WOFOSTGym'
 release = '1.0.0'
 
 # -- General configuration ---------------------------------------------------
